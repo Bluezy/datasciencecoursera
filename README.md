@@ -34,17 +34,17 @@ from assignment:
 
 <br><br>
 
-> This is a block quote. This
+> This is a block quote. This  
 > paragraph has two lines.
 >
-> 1. This is a list inside a block quote.
-> 2. Second item.
+> 1. A list inside a block quote.
+> 2. item #2 of the list
 
 <br><br>
 
 > A block quote.
 >
-> > with a block quote within itself.
+> > containing a block quote : so simple !
 
 
 
