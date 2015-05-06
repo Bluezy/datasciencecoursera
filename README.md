@@ -32,6 +32,7 @@ from assignment:
 > * Nine courses 
 > * Goes from raw data to data products
 
+<br><br>
 
 > This is a block quote. This
 > paragraph has two lines.
@@ -39,11 +40,11 @@ from assignment:
 > 1. This is a list inside a block quote.
 > 2. Second item.
 
-<br><br><br><br>
+<br><br>
 
-> This is a block quote.
+> A block quote.
 >
-> > A block quote within a block quote.
+> > with a block quote within itself.
 
 
 
